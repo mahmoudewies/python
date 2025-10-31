@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=yellow" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/YourUsername/Python?style=social" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/stars/mahmoudewies/Python?style=social" alt="Stars Badge"/>
 </p>
 
 ---
