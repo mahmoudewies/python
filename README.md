@@ -47,7 +47,7 @@ I’ll keep updating this repo regularly as I progress 💪
 
 ```bash
 # 1️⃣ Clone this repository
-git clone https://github.com/YourUsername/Python.git
+git clone https://github.com/mahmoudewies/Python.git
 
 # 2️⃣ Navigate to the project folder
 cd Python/project-name
