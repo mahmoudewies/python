@@ -1,7 +1,7 @@
 <h1 align="center">🐍 Python Projects Repository 🧠</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=yellow" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Python-3.13.7-blue?logo=python&logoColor=yellow" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
   <img src="https://img.shields.io/github/stars/mahmoudewies/Python?style=social" alt="Stars Badge"/>
 </p>
